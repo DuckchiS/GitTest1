@@ -1,8 +1,1 @@
 sdfasdfasdfafsd:
-
-
-sdfs
-public class[]{
-	main(){
-	}
-}
