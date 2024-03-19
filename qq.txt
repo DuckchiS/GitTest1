@@ -12,5 +12,4 @@ dfsdfsdfsfmain
 
 (){
 asdasdasdasd
-qweqwerqwe
 }
